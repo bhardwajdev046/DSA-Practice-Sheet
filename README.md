@@ -6,6 +6,7 @@ My solution of dsa practice sheet
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
@@ -25,6 +26,7 @@ My solution of dsa practice sheet
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
@@ -51,5 +53,6 @@ My solution of dsa practice sheet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
