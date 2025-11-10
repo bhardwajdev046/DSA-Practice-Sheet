@@ -6,6 +6,7 @@ My solution of dsa practice sheet
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -15,4 +16,16 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
