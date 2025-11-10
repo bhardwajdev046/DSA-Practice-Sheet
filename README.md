@@ -30,4 +30,20 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
