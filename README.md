@@ -6,6 +6,7 @@ My solution of dsa practice sheet
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -24,6 +25,7 @@ My solution of dsa practice sheet
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 ## Sorting
@@ -46,4 +48,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
