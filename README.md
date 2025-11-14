@@ -50,6 +50,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
@@ -57,6 +58,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -69,6 +71,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 ## Dynamic Programming
@@ -81,4 +84,5 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
