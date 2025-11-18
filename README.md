@@ -17,6 +17,7 @@ My solution of dsa practice sheet
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@ My solution of dsa practice sheet
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ My solution of dsa practice sheet
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
