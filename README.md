@@ -50,6 +50,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
@@ -172,6 +173,7 @@ My solution of dsa practice sheet
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
@@ -187,6 +189,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
