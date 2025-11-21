@@ -8,6 +8,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -49,6 +50,7 @@ My solution of dsa practice sheet
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
@@ -174,6 +176,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
@@ -194,6 +197,7 @@ My solution of dsa practice sheet
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
