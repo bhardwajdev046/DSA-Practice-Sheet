@@ -198,6 +198,7 @@ My solution of dsa practice sheet
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -217,6 +218,7 @@ My solution of dsa practice sheet
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
