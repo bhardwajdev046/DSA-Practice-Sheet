@@ -35,6 +35,7 @@ My solution of dsa practice sheet
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ My solution of dsa practice sheet
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -174,6 +176,7 @@ My solution of dsa practice sheet
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## String
 |  |
@@ -188,6 +191,7 @@ My solution of dsa practice sheet
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
