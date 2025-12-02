@@ -136,6 +136,7 @@ My solution of dsa practice sheet
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ My solution of dsa practice sheet
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -253,4 +255,9 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
