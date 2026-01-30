@@ -137,6 +137,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@ My solution of dsa practice sheet
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
@@ -279,4 +281,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
