@@ -22,6 +22,7 @@ My solution of dsa practice sheet
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -150,6 +151,7 @@ My solution of dsa practice sheet
 | [0213-house-robber-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,4 +298,5 @@ My solution of dsa practice sheet
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
