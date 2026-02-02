@@ -15,18 +15,36 @@ class Solution:
         # j=len(grid[0])
         # dp=[[-1]*j for i in range(i)]
         # return fun(i-1,j-1,grid,dp)
-        def fun(m,n,grid):
-            dp=[[-1]*n for i in range(m)]
-            dp[0][0]=grid[0][0]
+        
+        # def fun(m,n,grid):
+        #     dp=[[-1]*n for i in range(m)]
+        #     dp[0][0]=grid[0][0]
             
+        #     for i in range(m):
+        #         for j in range(n):
+        #             if i==0 and j==0:
+        #                 continue
+        #             left= dp[i][j-1] if j>0 else float('inf')
+        #             up= dp[i-1][j] if i>0 else float('inf')
+        #             dp[i][j]=grid[i][j]+min(left,up)
+        #     return dp[m-1][n-1]
+        # mp=len(grid)
+        # np=len(grid[0])
+        # return fun(mp,np,grid)
+
+        def fun(m,n,grid):
+            prev=[0]*n
             for i in range(m):
+                curr=[0]*n
                 for j in range(n):
                     if i==0 and j==0:
+                        curr[0]=grid[0][0]
                         continue
-                    left= dp[i][j-1] if j>0 else float('inf')
-                    up= dp[i-1][j] if i>0 else float('inf')
-                    dp[i][j]=grid[i][j]+min(left,up)
-            return dp[m-1][n-1]
+                    left= curr[j-1] if j>0 else float('inf')
+                    up= prev[j] if i>0 else float('inf')
+                    curr[j]=grid[i][j]+min(left,up)
+                prev=curr
+            return prev[n-1]
         mp=len(grid)
         np=len(grid[0])
         return fun(mp,np,grid)
