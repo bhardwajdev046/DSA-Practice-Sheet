@@ -15,25 +15,26 @@ class Solution:
         # row=len(matrix)
         # col=len(matrix[0])
         # mini=float('inf')
-        # dp=[[-1]*row for _ in range(col)]
+        # dp=[[-1]*col for _ in range(row)]
         # for k in range(col):
         #     mini=min(mini,fun(row-1,k,matrix,dp))
         # return mini
         
         row=len(matrix)
         col=len(matrix[0])
-        dp=[[None]*col for _ in range(row)]
+        prev=[0]*col
         for k in range(col):
-            dp[0][k]=matrix[0][k]
+            prev[k]=matrix[0][k]
 
         for i in range(1,row):
+            curr=[0]*col
             for j in range(col):
-                up=matrix[i][j] + dp[i-1][j] if i>0 else float('inf')
-                ld=matrix[i][j] + dp[i-1][j-1] if (i>0 and j>0) else float('inf') 
-                rd=matrix[i][j] + dp[i-1][j+1] if (i>0 and j<col-1) else float('inf')
-                dp[i][j]= min(up,ld,rd)
-
+                up=matrix[i][j] + prev[j] if i>0 else float('inf')
+                ld=matrix[i][j] + prev[j-1] if j>0 else float('inf') 
+                rd=matrix[i][j] + prev[j+1] if j<col-1 else float('inf')
+                curr[j]= min(up,ld,rd)
+            prev=curr
         mini=float('inf')
         for k in range(col):
-            mini=min(mini,dp[row-1][k])
+            mini=min(mini,prev[k])
         return mini
