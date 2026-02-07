@@ -141,6 +141,7 @@ My solution of dsa practice sheet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
@@ -211,6 +212,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
@@ -288,6 +290,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
