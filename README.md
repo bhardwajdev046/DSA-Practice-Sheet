@@ -24,6 +24,7 @@ My solution of dsa practice sheet
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
@@ -159,6 +160,7 @@ My solution of dsa practice sheet
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
 ## Breadth-First Search
