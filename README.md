@@ -164,6 +164,7 @@ My solution of dsa practice sheet
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
 ## Breadth-First Search
 |  |
@@ -241,6 +242,7 @@ My solution of dsa practice sheet
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
