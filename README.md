@@ -164,6 +164,7 @@ My solution of dsa practice sheet
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
@@ -243,6 +244,7 @@ My solution of dsa practice sheet
 | [0812-rotate-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
