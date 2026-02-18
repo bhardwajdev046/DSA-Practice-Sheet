@@ -152,6 +152,7 @@ My solution of dsa practice sheet
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0213-house-robber-ii) |
@@ -228,6 +229,7 @@ My solution of dsa practice sheet
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
