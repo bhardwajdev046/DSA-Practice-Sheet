@@ -6,6 +6,7 @@ My solution of dsa practice sheet
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
@@ -45,6 +46,7 @@ My solution of dsa practice sheet
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -54,6 +56,7 @@ My solution of dsa practice sheet
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0134-gas-station) |
