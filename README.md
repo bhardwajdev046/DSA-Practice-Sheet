@@ -57,6 +57,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0134-gas-station) |
@@ -148,6 +149,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
@@ -229,6 +231,7 @@ My solution of dsa practice sheet
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
@@ -301,6 +304,7 @@ My solution of dsa practice sheet
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 ## Memoization
