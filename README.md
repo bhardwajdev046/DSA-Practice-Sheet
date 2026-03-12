@@ -29,6 +29,7 @@ My solution of dsa practice sheet
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
@@ -179,6 +180,7 @@ My solution of dsa practice sheet
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
@@ -195,6 +197,7 @@ My solution of dsa practice sheet
 | [0112-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
@@ -346,6 +349,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
