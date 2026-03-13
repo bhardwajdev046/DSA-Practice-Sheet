@@ -197,6 +197,7 @@ My solution of dsa practice sheet
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0322-coin-change) |
@@ -256,6 +257,7 @@ My solution of dsa practice sheet
 | [0058-length-of-last-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
@@ -295,6 +297,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
