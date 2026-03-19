@@ -22,6 +22,7 @@ My solution of dsa practice sheet
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0416-partition-equal-subset-sum) |
@@ -86,6 +87,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -302,6 +304,7 @@ My solution of dsa practice sheet
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
