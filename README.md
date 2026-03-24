@@ -18,6 +18,7 @@ My solution of dsa practice sheet
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0213-house-robber-ii) |
@@ -59,6 +60,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0680-valid-palindrome-ii) |
@@ -139,6 +141,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
