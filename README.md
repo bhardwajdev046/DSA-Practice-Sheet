@@ -49,6 +49,7 @@ My solution of dsa practice sheet
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -329,6 +330,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String Matching
 |  |
 | ------- |
