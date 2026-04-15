@@ -12,16 +12,33 @@ class Solution:
         #         return max(fun(i+1,j),fun(i,j-1))
         # return fun(0,m-1)
 
+        # s2=s[::-1]
+        # def fun(m,n):
+        #     dp=[[0]*(n+1) for _ in range(m+1)]
+        #     for i in range(1,m+1):
+        #         for j in range(1,n+1):
+        #             if s[i-1]==s2[j-1]:
+        #                 dp[i][j]=1+dp[i-1][j-1]
+        #             else:
+        #                 dp[i][j]=max(dp[i-1][j],dp[i][j-1])
+        #     return dp[m][n]
+        # return fun(len(s),len(s2))
+
         s2=s[::-1]
-        def fun(m,n):
-            dp=[[0]*(n+1) for _ in range(m+1)]
-            for i in range(1,m+1):
-                for j in range(1,n+1):
-                    if s[i-1]==s2[j-1]:
-                        dp[i][j]=1+dp[i-1][j-1]
-                    else:
-                        dp[i][j]=max(dp[i-1][j],dp[i][j-1])
-            return dp[m][n]
-        return fun(len(s),len(s2))
+        m=len(s)
+        n=len(s2)
+        dp=[[-1]*n for _ in range(m)]
+        def fun(i,j):
+            if i<0 or j<0:
+                return 0
+            if dp[i][j]!=-1:
+                return dp[i][j]
+            if s[i]==s2[j]:
+                dp[i][j]=1+fun(i-1,j-1)
+                return dp[i][j]
+            else:
+                dp[i][j]=max(fun(i,j-1),fun(i-1,j))
+                return dp[i][j]
+        return fun(m-1,n-1)
                 
         
