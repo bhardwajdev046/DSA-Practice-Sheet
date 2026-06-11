@@ -56,6 +56,7 @@ My solution of dsa practice sheet
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -275,6 +276,7 @@ My solution of dsa practice sheet
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
@@ -322,6 +324,7 @@ My solution of dsa practice sheet
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
