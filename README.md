@@ -42,6 +42,7 @@ My solution of dsa practice sheet
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
@@ -59,11 +60,13 @@ My solution of dsa practice sheet
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
@@ -163,6 +166,7 @@ My solution of dsa practice sheet
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Tree
 |  |
