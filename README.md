@@ -10,6 +10,7 @@ My solution of dsa practice sheet
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
@@ -198,6 +199,7 @@ My solution of dsa practice sheet
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
@@ -255,6 +257,7 @@ My solution of dsa practice sheet
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
