@@ -20,6 +20,7 @@ My solution of dsa practice sheet
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
@@ -209,6 +210,7 @@ My solution of dsa practice sheet
 | [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0213-house-robber-ii) |
