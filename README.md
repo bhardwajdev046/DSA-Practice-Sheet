@@ -328,6 +328,7 @@ My solution of dsa practice sheet
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -364,6 +365,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -384,6 +386,7 @@ My solution of dsa practice sheet
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
 | ------- |
