@@ -63,6 +63,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
@@ -309,6 +310,7 @@ My solution of dsa practice sheet
 | [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0344-reverse-string) |
@@ -354,6 +356,7 @@ My solution of dsa practice sheet
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
@@ -414,6 +417,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -439,4 +443,12 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
