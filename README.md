@@ -45,6 +45,7 @@ My solution of dsa practice sheet
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -76,6 +77,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -370,6 +372,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
