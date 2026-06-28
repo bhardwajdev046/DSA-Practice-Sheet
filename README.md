@@ -50,6 +50,7 @@ My solution of dsa practice sheet
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
@@ -100,6 +101,7 @@ My solution of dsa practice sheet
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -462,4 +464,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
