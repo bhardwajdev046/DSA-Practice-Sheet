@@ -60,6 +60,7 @@ My solution of dsa practice sheet
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -348,6 +349,7 @@ My solution of dsa practice sheet
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Math
