@@ -54,6 +54,7 @@ My solution of dsa practice sheet
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
+| [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
@@ -120,6 +121,7 @@ My solution of dsa practice sheet
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
+| [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -243,6 +245,7 @@ My solution of dsa practice sheet
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
+| [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
