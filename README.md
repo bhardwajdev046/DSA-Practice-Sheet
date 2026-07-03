@@ -16,6 +16,7 @@ My solution of dsa practice sheet
 | [0057-insert-interval](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0120-triangle) |
@@ -272,6 +273,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
@@ -487,5 +489,6 @@ My solution of dsa practice sheet
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
