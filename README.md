@@ -17,6 +17,7 @@ My solution of dsa practice sheet
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0120-triangle) |
@@ -228,6 +229,7 @@ My solution of dsa practice sheet
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -274,6 +276,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
@@ -458,6 +461,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
@@ -490,5 +494,6 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
