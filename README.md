@@ -46,6 +46,7 @@ My solution of dsa practice sheet
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
@@ -281,6 +282,7 @@ My solution of dsa practice sheet
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -321,6 +323,7 @@ My solution of dsa practice sheet
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## String
