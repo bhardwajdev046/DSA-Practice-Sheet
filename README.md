@@ -285,6 +285,7 @@ My solution of dsa practice sheet
 | [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -316,10 +317,12 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -501,4 +504,5 @@ My solution of dsa practice sheet
 | [0084-largest-rectangle-in-histogram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
