@@ -350,6 +350,7 @@ My solution of dsa practice sheet
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0409-longest-palindrome) |
@@ -403,6 +404,7 @@ My solution of dsa practice sheet
 | [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -432,6 +434,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
