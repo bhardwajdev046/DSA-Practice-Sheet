@@ -61,6 +61,7 @@ My solution of dsa practice sheet
 | [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -148,6 +149,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 ## Tree
 |  |
@@ -416,6 +418,7 @@ My solution of dsa practice sheet
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
