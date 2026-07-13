@@ -515,4 +515,8 @@ My solution of dsa practice sheet
 | [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
