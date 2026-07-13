@@ -43,6 +43,7 @@ My solution of dsa practice sheet
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
@@ -197,6 +198,7 @@ My solution of dsa practice sheet
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0704-binary-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
