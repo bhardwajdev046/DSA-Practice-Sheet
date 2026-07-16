@@ -52,6 +52,7 @@ My solution of dsa practice sheet
 | [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
@@ -207,6 +208,7 @@ My solution of dsa practice sheet
 | [0704-binary-search](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0704-binary-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
