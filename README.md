@@ -8,6 +8,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0053-maximum-subarray) |
@@ -196,6 +197,7 @@ My solution of dsa practice sheet
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
