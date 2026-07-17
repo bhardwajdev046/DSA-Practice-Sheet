@@ -62,6 +62,7 @@ My solution of dsa practice sheet
 | [0986-interval-list-intersections](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
@@ -212,6 +213,7 @@ My solution of dsa practice sheet
 | [0875-koko-eating-bananas](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
