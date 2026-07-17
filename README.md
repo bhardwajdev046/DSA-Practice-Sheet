@@ -68,6 +68,7 @@ My solution of dsa practice sheet
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
@@ -211,6 +212,7 @@ My solution of dsa practice sheet
 | [0875-koko-eating-bananas](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
