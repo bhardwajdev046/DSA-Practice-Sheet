@@ -40,6 +40,7 @@ My solution of dsa practice sheet
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -156,6 +157,7 @@ My solution of dsa practice sheet
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
