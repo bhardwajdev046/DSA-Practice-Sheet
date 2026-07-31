@@ -146,6 +146,7 @@ My solution of dsa practice sheet
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +410,7 @@ My solution of dsa practice sheet
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -417,6 +419,7 @@ My solution of dsa practice sheet
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
 |  |
