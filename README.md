@@ -76,6 +76,7 @@ My solution of dsa practice sheet
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
@@ -179,6 +180,7 @@ My solution of dsa practice sheet
 | [0977-squares-of-a-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [3731-find-missing-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -239,6 +241,7 @@ My solution of dsa practice sheet
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -356,6 +359,7 @@ My solution of dsa practice sheet
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
@@ -548,6 +552,7 @@ My solution of dsa practice sheet
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
 ## Union-Find
 |  |
