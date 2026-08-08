@@ -40,6 +40,7 @@ My solution of dsa practice sheet
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
@@ -167,6 +168,7 @@ My solution of dsa practice sheet
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -232,6 +234,7 @@ My solution of dsa practice sheet
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0704-binary-search) |
@@ -353,6 +356,7 @@ My solution of dsa practice sheet
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
@@ -549,6 +553,7 @@ My solution of dsa practice sheet
 | [0074-search-a-2d-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
