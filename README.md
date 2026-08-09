@@ -74,6 +74,7 @@ My solution of dsa practice sheet
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
+| [1046-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
@@ -364,6 +365,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
