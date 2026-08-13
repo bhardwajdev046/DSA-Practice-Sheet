@@ -51,6 +51,7 @@ My solution of dsa practice sheet
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
+| [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@ My solution of dsa practice sheet
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
@@ -181,6 +183,7 @@ My solution of dsa practice sheet
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
@@ -367,6 +370,7 @@ My solution of dsa practice sheet
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
