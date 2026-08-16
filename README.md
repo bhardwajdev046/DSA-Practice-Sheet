@@ -46,6 +46,7 @@ My solution of dsa practice sheet
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+| [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0518-coin-change-ii) |
@@ -105,6 +106,7 @@ My solution of dsa practice sheet
 | [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -370,6 +372,7 @@ My solution of dsa practice sheet
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
@@ -493,6 +496,7 @@ My solution of dsa practice sheet
 | [0409-longest-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0763-partition-labels) |
@@ -642,4 +646,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
