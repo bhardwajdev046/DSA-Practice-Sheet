@@ -133,6 +133,7 @@ My solution of dsa practice sheet
 | [0088-merge-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -178,6 +179,7 @@ My solution of dsa practice sheet
 | [0217-contains-duplicate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0414-third-maximum-number) |
@@ -369,6 +371,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -395,11 +398,13 @@ My solution of dsa practice sheet
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0901-online-stock-span) |
 ## Simulation
