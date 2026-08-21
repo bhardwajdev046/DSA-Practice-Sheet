@@ -8,19 +8,23 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if root is None:
             return None
-        queue = deque()
-        queue.append(root)
-        while queue:
-            node = queue.popleft()
+        # queue = deque()
+        # queue.append(root)
+        # while queue:
+        #     node = queue.popleft()
             
-            #SWAP LEFT AND RIGHT CHILD 
-            node.left ,node.right= node.right ,node.left
-            if node.left:
-                queue.append(node.left)
-            if node.right:
-                queue.append(node.right)
+        #     #SWAP LEFT AND RIGHT CHILD 
+        #     node.left ,node.right= node.right ,node.left
+        #     if node.left:
+        #         queue.append(node.left)
+        #     if node.right:
+        #         queue.append(node.right)
+        # return root
+        root.left ,root.right = root.right ,root.left
+        left = self.invertTree(root.right)
+        right = self.invertTree(root.left)
+
         return root
-        
 
 
         
