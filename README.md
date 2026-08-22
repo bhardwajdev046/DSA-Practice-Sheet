@@ -674,4 +674,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
