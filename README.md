@@ -222,6 +222,7 @@ My solution of dsa practice sheet
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0572-subtree-of-another-tree) |
@@ -244,6 +245,7 @@ My solution of dsa practice sheet
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -295,6 +297,7 @@ My solution of dsa practice sheet
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0572-subtree-of-another-tree) |
@@ -455,6 +458,7 @@ My solution of dsa practice sheet
 | [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0383-ransom-note) |
@@ -592,6 +596,7 @@ My solution of dsa practice sheet
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
