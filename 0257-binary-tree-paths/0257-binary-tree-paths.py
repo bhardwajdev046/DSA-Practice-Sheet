@@ -10,10 +10,11 @@ class Solution:
         def fun(root,ans):
             if root is None:
                 return []
-            ans += str(root.val)+'->'
+            ans += str(root.val)
             if root.left is None and root.right is None:
-                self.res.append(ans[:-2])
+                self.res.append(ans)
             else:
+                ans += "->"
                 fun(root.left,ans)
                 fun(root.right,ans)
             # ans -= str(root.val)
