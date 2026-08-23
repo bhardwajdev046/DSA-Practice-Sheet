@@ -216,6 +216,7 @@ My solution of dsa practice sheet
 | [0110-balanced-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
@@ -237,6 +238,7 @@ My solution of dsa practice sheet
 | [0110-balanced-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
@@ -287,6 +289,7 @@ My solution of dsa practice sheet
 | [0110-balanced-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
@@ -588,6 +591,7 @@ My solution of dsa practice sheet
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
