@@ -222,6 +222,7 @@ My solution of dsa practice sheet
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
@@ -246,6 +247,7 @@ My solution of dsa practice sheet
 | [0145-binary-tree-postorder-traversal](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
@@ -265,6 +267,7 @@ My solution of dsa practice sheet
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
@@ -299,6 +302,7 @@ My solution of dsa practice sheet
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0450-delete-node-in-a-bst) |
@@ -702,9 +706,11 @@ My solution of dsa practice sheet
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
