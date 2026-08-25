@@ -451,6 +451,7 @@ My solution of dsa practice sheet
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -514,6 +515,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -682,6 +684,7 @@ My solution of dsa practice sheet
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |
