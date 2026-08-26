@@ -236,6 +236,7 @@ My solution of dsa practice sheet
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ My solution of dsa practice sheet
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -322,6 +324,7 @@ My solution of dsa practice sheet
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -384,6 +387,7 @@ My solution of dsa practice sheet
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
 | ------- |
@@ -569,6 +573,7 @@ My solution of dsa practice sheet
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
