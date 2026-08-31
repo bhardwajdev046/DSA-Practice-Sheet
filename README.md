@@ -523,6 +523,7 @@ My solution of dsa practice sheet
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -580,6 +581,7 @@ My solution of dsa practice sheet
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -611,6 +613,7 @@ My solution of dsa practice sheet
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
