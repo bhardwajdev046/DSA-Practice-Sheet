@@ -104,6 +104,7 @@ My solution of dsa practice sheet
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3903-smallest-stable-index-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My solution of dsa practice sheet
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
