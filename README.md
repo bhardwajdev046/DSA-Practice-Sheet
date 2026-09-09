@@ -341,6 +341,7 @@ My solution of dsa practice sheet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0045-jump-game-ii) |
@@ -484,6 +485,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0020-valid-parentheses) |
@@ -633,6 +635,7 @@ My solution of dsa practice sheet
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
