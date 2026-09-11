@@ -99,6 +99,7 @@ My solution of dsa practice sheet
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -599,6 +600,7 @@ My solution of dsa practice sheet
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -639,6 +641,7 @@ My solution of dsa practice sheet
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -715,6 +718,7 @@ My solution of dsa practice sheet
 | ------- |
 | [1291-sequential-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
