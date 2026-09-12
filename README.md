@@ -271,6 +271,7 @@ My solution of dsa practice sheet
 | [0572-subtree-of-another-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
@@ -398,6 +399,7 @@ My solution of dsa practice sheet
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -687,6 +689,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 ## Monotonic Queue
 |  |
@@ -772,4 +775,16 @@ My solution of dsa practice sheet
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
