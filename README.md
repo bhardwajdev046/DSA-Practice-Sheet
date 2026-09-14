@@ -243,6 +243,7 @@ My solution of dsa practice sheet
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -274,6 +275,7 @@ My solution of dsa practice sheet
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
@@ -336,6 +338,7 @@ My solution of dsa practice sheet
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -376,6 +379,7 @@ My solution of dsa practice sheet
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
 | [1024-video-stitching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1024-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
@@ -760,6 +764,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
