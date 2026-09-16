@@ -133,6 +133,7 @@ My solution of dsa practice sheet
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3903-smallest-stable-index-i) |
@@ -385,6 +386,7 @@ My solution of dsa practice sheet
 | [1143-longest-common-subsequence](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,6 +555,7 @@ My solution of dsa practice sheet
 | [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -673,6 +676,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
 | ------- |
