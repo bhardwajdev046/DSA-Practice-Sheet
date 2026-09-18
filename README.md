@@ -554,6 +554,7 @@ My solution of dsa practice sheet
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -742,6 +743,7 @@ My solution of dsa practice sheet
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
