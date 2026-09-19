@@ -62,6 +62,7 @@ My solution of dsa practice sheet
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0875-koko-eating-bananas) |
@@ -276,6 +277,7 @@ My solution of dsa practice sheet
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0968-binary-tree-cameras) |
@@ -409,6 +411,7 @@ My solution of dsa practice sheet
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -693,6 +696,7 @@ My solution of dsa practice sheet
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
@@ -704,6 +708,7 @@ My solution of dsa practice sheet
 | [0130-surrounded-regions](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 ## Monotonic Queue
 |  |
