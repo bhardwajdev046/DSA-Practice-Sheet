@@ -1,38 +1,24 @@
 class Solution:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        if image[sr][sc]==color:
+    def floodFill(self, image: list[list[int]], sr: int, sc: int, color: int) -> list[list[int]]:
+        row=len(image)
+        col=len(image[0])
+        visited=[[0]*col for _ in range(row)]
+        org = image[sr][sc]
+        def dfs(i,j):
+            if i<0 or i>=row or j<0 or j>=col:
+                return image
+            if image[i][j]==color:
+                return image
+            if image[i][j]!=org:
+                return image
+            if visited[i][j]!=0:
+                return image
+            visited[i][j]=1
+            image[i][j]=color
+            dfs(i-1,j)
+            dfs(i+1,j)
+            dfs(i,j-1)
+            dfs(i,j+1)
+            
             return image
-        initial_color=image[sr][sc]
-        rows=len(image)
-        cols=len(image[0])
-        
-        # def dfs(r,c):
-        #     if r<0 or r>=rows or c<0 or c>=cols:
-        #         return
-        #     if image[r][c]!=initial_color:
-        #         return
-        #     if image[r][c]==color:
-        #         return
-        #     image[r][c]=color
-        #     for dx,dy in [(1,0), (-1,0), (0,1), (0,-1)]:
-        #         dfs(r+dx,c+dy)
-        #     return image
-        # return dfs(sr,sc)
-
-        queue=deque()
-        queue.append((sr,sc))
-        while queue:
-            r,c=queue.popleft()
-            image[r][c]=color
-            for dx,dy in [(1,0), (-1,0), (0,1), (0,-1)]:
-                new_r=dx+r
-                new_c=dy+c
-                if new_r<0 or new_c<0 or new_r>=rows or new_c>=cols:
-                    continue
-                if image[new_r][new_c]!=initial_color:
-                    continue
-                if image[new_r][new_c]==color:
-                    continue
-                queue.append((new_r,new_c))
-        return image
-                
+        return dfs(sr,sc)
