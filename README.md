@@ -496,6 +496,7 @@ My solution of dsa practice sheet
 | [0844-backspace-string-compare](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0844-backspace-string-compare) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -553,6 +554,7 @@ My solution of dsa practice sheet
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
