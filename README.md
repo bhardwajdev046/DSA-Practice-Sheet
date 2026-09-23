@@ -95,6 +95,7 @@ My solution of dsa practice sheet
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
+| [2401-longest-nice-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2401-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -124,6 +125,7 @@ My solution of dsa practice sheet
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2401-longest-nice-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -685,6 +687,7 @@ My solution of dsa practice sheet
 | [0187-repeated-dna-sequences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
+| [2401-longest-nice-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2401-longest-nice-subarray) |
 ## Combinatorics
 |  |
 | ------- |
