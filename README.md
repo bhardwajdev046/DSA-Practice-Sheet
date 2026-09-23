@@ -88,6 +88,7 @@ My solution of dsa practice sheet
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1765-map-of-highest-peak](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1765-map-of-highest-peak) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -420,6 +421,7 @@ My solution of dsa practice sheet
 | [0994-rotting-oranges](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1765-map-of-highest-peak](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
@@ -706,6 +708,7 @@ My solution of dsa practice sheet
 | [1020-number-of-enclaves](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1463-cherry-pickup-ii) |
+| [1765-map-of-highest-peak](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
