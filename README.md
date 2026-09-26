@@ -283,6 +283,7 @@ My solution of dsa practice sheet
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -387,6 +388,7 @@ My solution of dsa practice sheet
 | [0542-01-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0931-minimum-falling-path-sum) |
@@ -418,6 +420,7 @@ My solution of dsa practice sheet
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -471,6 +474,7 @@ My solution of dsa practice sheet
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
@@ -817,6 +821,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -825,4 +830,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
