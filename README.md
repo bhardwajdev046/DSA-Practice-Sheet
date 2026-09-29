@@ -840,4 +840,8 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
