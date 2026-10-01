@@ -856,4 +856,5 @@ My solution of dsa practice sheet
 | [1661-average-time-of-process-per-machine](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
