@@ -101,6 +101,7 @@ My solution of dsa practice sheet
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -631,6 +632,7 @@ My solution of dsa practice sheet
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2615-sum-of-distances](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2615-sum-of-distances) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -865,4 +867,12 @@ My solution of dsa practice sheet
 | [1757-recyclable-and-low-fat-products](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
