@@ -94,6 +94,7 @@ My solution of dsa practice sheet
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2206-divide-array-into-equal-pairs) |
@@ -222,6 +223,7 @@ My solution of dsa practice sheet
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1829-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -322,6 +324,7 @@ My solution of dsa practice sheet
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
