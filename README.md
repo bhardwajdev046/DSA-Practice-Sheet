@@ -801,6 +801,7 @@ My solution of dsa practice sheet
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
