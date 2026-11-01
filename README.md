@@ -685,6 +685,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -801,6 +802,7 @@ My solution of dsa practice sheet
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
