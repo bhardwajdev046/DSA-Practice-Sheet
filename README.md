@@ -153,6 +153,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0142-linked-list-cycle-ii) |
@@ -799,6 +800,7 @@ My solution of dsa practice sheet
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0142-linked-list-cycle-ii) |
