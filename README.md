@@ -686,6 +686,7 @@ My solution of dsa practice sheet
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0394-decode-string) |
@@ -803,6 +804,7 @@ My solution of dsa practice sheet
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0142-linked-list-cycle-ii) |
