@@ -111,6 +111,7 @@ My solution of dsa practice sheet
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3903-smallest-stable-index-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3903-smallest-stable-index-i) |
@@ -597,6 +598,7 @@ My solution of dsa practice sheet
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
 |  |
