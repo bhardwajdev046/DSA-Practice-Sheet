@@ -48,6 +48,7 @@ My solution of dsa practice sheet
 | [0435-non-overlapping-intervals](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
@@ -216,6 +217,7 @@ My solution of dsa practice sheet
 | [0451-sort-characters-by-frequency](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0658-find-k-closest-elements) |
@@ -588,6 +590,7 @@ My solution of dsa practice sheet
 | [0062-unique-paths](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0258-add-digits) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/bhardwajdev046/DSA-Practice-Sheet/tree/master/0973-k-closest-points-to-origin) |
